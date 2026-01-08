@@ -1,6 +1,5 @@
 ## Education
-- `2022.03~` : **Electronic & Electrical Engineering**
-- `2024.09~` : **Mechanical Engineering** _(Double Major)_
+- `2022.03~` : Electronic & Electrical Engineering
 
 <br/>
 
