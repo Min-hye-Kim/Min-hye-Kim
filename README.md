@@ -1,5 +1,7 @@
 ## Education
-- `2022.03~` : Electronic & Electrical Engineering
+- `2022.03~` : Electronic & Electrical Engineering (Major)
+- `2025.03~` : Mechanical Engineering (Minor)
+- `2026.03~` : Venture Management (Double Major)
 
 <br/>
 
